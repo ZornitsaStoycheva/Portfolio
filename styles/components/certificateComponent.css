@@ -1,0 +1,31 @@
+.certificate {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.certificate h1 {
+    padding-bottom: 1em;
+}
+
+.media-container {
+    width: 900px;
+    display: flex;
+    justify-content: center;
+}
+
+.media-container img {
+    display: block;
+    width: 435px;
+    overflow: hidden;
+}
+
+.fundamentals img {
+    display: block;
+    width: 300px;
+    height: auto;
+    overflow: hidden;
+}

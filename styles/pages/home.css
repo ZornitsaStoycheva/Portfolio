@@ -1,0 +1,59 @@
+.presentation {
+    margin: 2em;
+    padding: 2em;
+}
+
+.presentation p {
+    padding: 0;
+}
+
+.presentation header {
+    padding-bottom: 2em;
+}
+
+.presentation header p {
+    padding: 0;
+    opacity: 0.8;
+}
+
+.presentation header h1 {
+    margin: 0.2rem 0;
+    line-height: 1.1;
+}
+
+.presentation header h2 {
+    font-size: 1.8em;
+    color: #4d5bce;
+}
+
+.presentation header h2::before {
+    display: inline-block;
+    content: '>';
+    padding-right: 1em;
+}
+
+.presentation p a {
+    text-decoration: none;
+}
+
+.presentation p a:hover {
+    text-decoration: underline;
+}
+
+.presentation .comments {
+    color: #607b96;
+}
+
+.presentation .clr-variable-type {
+    color: #4d5bce;
+}
+
+.presentation .clr-variable-name {
+    color: #43d9ad;
+}
+
+.presentation .clr-varible-value {
+    color: #e99287;
+}
+
+

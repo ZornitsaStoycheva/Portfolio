@@ -1,0 +1,21 @@
+.certificate-container {
+    width: 1080px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4.6em;
+    padding: 1em;
+    padding-top: 2.2em;
+}
+
+.card-body {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: transparent;
+}
+
+.card-body p {
+    padding-bottom: 0;
+}

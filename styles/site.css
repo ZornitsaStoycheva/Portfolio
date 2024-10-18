@@ -1,0 +1,14 @@
+@import url('../styles/base/reset.css');
+@import url('../styles/base/typography.css');
+@import url('../styles/base/variables.css');
+
+@import url('../styles/components/navigation.css');
+@import url('../styles/components/socials.css');
+@import url('../styles/components/certificateComponent.css');
+
+@import url('../styles/pages/home.css');
+@import url('../styles/pages/certificate.css');
+
+@import url('../styles/site/site-layout.css');
+@import url('../styles/site/site-header.css');
+@import url('../styles/site/site-foother.css');
