@@ -8,6 +8,8 @@
 
 @import url('../styles/pages/home.css');
 @import url('../styles/pages/certificate.css');
+@import url('../styles/pages/projects.css');
+@import url('../styles/pages/about.css');
 
 @import url('../styles/site/site-layout.css');
 @import url('../styles/site/site-header.css');

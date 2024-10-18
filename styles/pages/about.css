@@ -1,0 +1,14 @@
+.about .presentation{
+    width: 900px;
+    margin: 0 auto;
+    padding: 2em;
+    padding-top: 5em;
+}
+
+.about .presentation .clr-variable-name {
+    color: #e99287;
+}
+
+.about a {
+    text-decoration: none;
+}

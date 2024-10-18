@@ -1,0 +1,33 @@
+.projects {
+    width: 1080px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2em;
+    padding: 1em;
+    padding-top: 2.2em;
+}
+
+.projects a {
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-radius: 1.2em;
+    display: block;
+    overflow: hidden;
+}
+
+.projects img {
+    width: 410px;
+    height: 300px;
+    display: block;
+}
+
+.projects p {
+    margin-top: 2em;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #e99287;
+}
